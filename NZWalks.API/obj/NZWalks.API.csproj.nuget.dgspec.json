@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hemanth.Siripireddy\\OneDrive - Verint Systems Ltd\\Documents\\MyProjects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
+    "C:\\Users\\Hemanth.Siripireddy\\Documents\\Projects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hemanth.Siripireddy\\OneDrive - Verint Systems Ltd\\Documents\\MyProjects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
+    "C:\\Users\\Hemanth.Siripireddy\\Documents\\Projects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hemanth.Siripireddy\\OneDrive - Verint Systems Ltd\\Documents\\MyProjects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectUniqueName": "C:\\Users\\Hemanth.Siripireddy\\Documents\\Projects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "projectName": "NZWalks.API",
-        "projectPath": "C:\\Users\\Hemanth.Siripireddy\\OneDrive - Verint Systems Ltd\\Documents\\MyProjects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectPath": "C:\\Users\\Hemanth.Siripireddy\\Documents\\Projects\\.net\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "packagesPath": "C:\\Users\\Hemanth.Siripireddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hemanth.Siripireddy\\OneDrive - Verint Systems Ltd\\Documents\\MyProjects\\.net\\NZWalks\\NZWalks.API\\obj\\",
+        "outputPath": "C:\\Users\\Hemanth.Siripireddy\\Documents\\Projects\\.net\\NZWalks\\NZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
