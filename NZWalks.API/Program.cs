@@ -1,7 +1,7 @@
 using NZWalks.API.Data;
-using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using NZWalks.API.Repositories;
+using NZWalks.API.Mappings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +14,9 @@ builder.Services.AddOpenApi();
 
 builder.Services.AddScoped<IRegionRepository, SQLRegionRepository>();
 
+//builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
+//builder.Services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
+builder.Services.AddAutoMapper(cfg => { }, typeof(AutoMapperProfiles).Assembly);
 
 builder.Services.AddDbContext<NZWalksDbContext>(options =>
 {

@@ -1,1 +1,20 @@
 .vs/
+# Build outputs
+bin/
+obj/
+
+# Visual Studio cache
+*.user
+*.rsuser
+*.suo
+
+# ASP.NET Core Auto-generated Data
+ApiEndpoints.json
+*.cache
+*.pdb
+
+# Ignore accidentally created framework folders
+*/Debug/net8.0/
+*/Release/net8.0/
+*/Debug/net9.0/
+*/Release/net9.0/
